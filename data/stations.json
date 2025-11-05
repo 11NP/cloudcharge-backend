@@ -1,0 +1,392 @@
+[
+  {
+    "name": "Tata Power - Mumbai Airport",
+    "location": {
+      "type": "Point",
+      "coordinates": [72.8777, 19.0896],
+      "address": "Chhatrapati Shivaji Maharaj Int'l Airport, Mumbai"
+    },
+    "pricePerKwh": 20.50,
+    "status": "Available",
+    "connectors": [
+      { "type": "CCS", "powerKw": 50 }
+    ]
+  },
+  {
+    "name": "ChargeZone - CP Delhi",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.2167, 28.6330],
+      "address": "Connaught Place, New Delhi, Delhi 110001"
+    },
+    "pricePerKwh": 18.00,
+    "status": "Available",
+    "connectors": [
+      { "type": "CCS", "powerKw": 150 }
+    ]
+  },
+  {
+    "name": "Ather Grid - HSR Bangalore",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.6411, 12.9130],
+      "address": "HSR Layout, Bengaluru, Karnataka 560102"
+    },
+    "pricePerKwh": 15.00,
+    "status": "Charging",
+    "connectors": [
+      { "type": "Type 2", "powerKw": 22 }
+    ]
+  },
+  {
+    "name": "Zeon Charging - T. Nagar, Chennai",
+    "location": {
+      "type": "Point",
+      "coordinates": [80.2423, 13.0402],
+      "address": "T. Nagar, Chennai, Tamil Nadu 600017"
+    },
+    "pricePerKwh": 19.00,
+    "status": "Available",
+    "connectors": [
+      { "type": "CCS", "powerKw": 60 }
+    ]
+  },
+  {
+    "name": "Tata Power - Brookefields, Coimbatore",
+    "location": {
+      "type": "Point",
+      "coordinates": [76.9458, 11.0116],
+      "address": "Brookefields Mall, Coimbatore, Tamil Nadu 641001"
+    },
+    "pricePerKwh": 21.00,
+    "status": "Available",
+    "connectors": [
+      { "type": "CCS", "powerKw": 50 }
+    ]
+  },
+  {
+    "name": "ChargeMOD - Lulu Mall, Kochi",
+    "location": {
+      "type": "Point",
+      "coordinates": [76.3079, 10.0278],
+      "address": "Lulu International Mall, Kochi, Kerala 682024"
+    },
+    "pricePerKwh": 17.50,
+    "status": "Unavailable",
+    "connectors": [
+      { "type": "Type 2", "powerKw": 22 }
+    ]
+  },
+  {
+    "name": "KSEB Charging - Palayam, Trivandrum",
+    "location": {
+      "type": "Point",
+      "coordinates": [76.9482, 8.5020],
+      "address": "Palayam, Thiruvananthapuram, Kerala 695034"
+    },
+    "pricePerKwh": 16.00,
+    "status": "Available",
+    "connectors": [
+      { "type": "CCS", "powerKw": 30 }
+    ]
+  },
+  {
+    "name": "ChargeZone - RK Beach, Vizag",
+    "location": {
+      "type": "Point",
+      "coordinates": [83.3188, 17.7126],
+      "address": "Ramakrishna Beach, Visakhapatnam, Andhra Pradesh 530003"
+    },
+    "pricePerKwh": 18.50,
+    "status": "Available",
+    "connectors": [
+      { "type": "CCS", "powerKw": 50 }
+    ]
+  },
+  {
+    "name": "Relux EV - Madurai",
+    "location": {
+      "type": "Point",
+      "coordinates": [78.1198, 9.9252],
+      "address": "Meenakshi Amman Temple, Madurai, Tamil Nadu 625001"
+    },
+    "pricePerKwh": 19.50,
+    "status": "Available",
+    "connectors": [
+      { "type": "CCS", "powerKw": 50 }
+    ]
+  },
+  {
+    "name": "GOEC - Inorbit Mall, Hyderabad",
+    "location": {
+      "type": "Point",
+      "coordinates": [78.3874, 17.4260],
+      "address": "Inorbit Mall, Hitech City, Hyderabad, Telangana 500081"
+    },
+    "pricePerKwh": 22.00,
+    "status": "Charging",
+    "connectors": [
+      { "type": "CCS", "powerKw": 100 }
+    ]
+  },
+  {
+    "name": "Bolt Earth - Benz Circle, Vijayawada",
+    "location": {
+      "type": "Point",
+      "coordinates": [80.6505, 16.5009],
+      "address": "Benz Circle, Vijayawada, Andhra Pradesh 520010"
+    },
+    "pricePerKwh": 17.00,
+    "status": "Available",
+    "connectors": [
+      { "type": "Type 2", "powerKw": 15 }
+    ]
+  },
+  {
+    "name": "Ather Grid - Calicut",
+    "location": {
+      "type": "Point",
+      "coordinates": [75.7804, 11.2588],
+      "address": "Hilite Mall, Kozhikode, Kerala 673014"
+    },
+    "pricePerKwh": 15.00,
+    "status": "Available",
+    "connectors": [
+      { "type": "Type 2", "powerKw": 22 }
+    ]
+  },
+  {
+    "name": "Tata Power - Phoenix Marketcity, Pune",
+    "location": {
+      "type": "Point",
+      "coordinates": [73.9184, 18.5621],
+      "address": "Viman Nagar, Pune, Maharashtra 411014"
+    },
+    "pricePerKwh": 21.50,
+    "status": "Available",
+    "connectors": [
+      { "type": "CCS", "powerKw": 50 }
+    ]
+  },
+  {
+    "name": "Zeon - Express Avenue, Chennai",
+    "location": {
+      "type": "Point",
+      "coordinates": [80.2642, 13.0601],
+      "address": "Express Avenue Mall, Royapettah, Chennai, Tamil Nadu 600014"
+    },
+    "pricePerKwh": 19.00,
+    "status": "Charging",
+    "connectors": [
+      { "type": "CCS", "powerKw": 50 }
+    ]
+  },
+  {
+    "name": "Statiq - GVK One, Hyderabad",
+    "location": {
+      "type": "Point",
+      "coordinates": [78.4550, 17.4213],
+      "address": "GVK One Mall, Banjara Hills, Hyderabad, Telangana 500034"
+    },
+    "pricePerKwh": 20.00,
+    "status": "Available",
+    "connectors": [
+      { "type": "CCS", "powerKw": 60 }
+    ]
+  },
+  {
+    "name": "ChargeGrid - One Awadh, Lucknow",
+    "location": {
+      "type": "Point",
+      "coordinates": [80.9918, 26.8600],
+      "address": "One Awadh Center Mall, Lucknow, Uttar Pradesh 226010"
+    },
+    "pricePerKwh": 18.00,
+    "status": "Available",
+    "connectors": [
+      { "type": "Type 2", "powerKw": 22 }
+    ]
+  },
+  {
+    "name": "Tata Power - City Centre, Kolkata",
+    "location": {
+      "type": "Point",
+      "coordinates": [88.3845, 22.5851],
+      "address": "City Centre Salt Lake, Kolkata, West Bengal 700064"
+    },
+    "pricePerKwh": 20.00,
+    "status": "Available",
+    "connectors": [
+      { "type": "CCS", "powerKw": 30 }
+    ]
+  },
+  {
+    "name": "ChargeZone - Iscon Mega Mall, Ahmedabad",
+    "location": {
+      "type": "Point",
+      "coordinates": [72.5152, 23.0305],
+      "address": "Bodakdev, Ahmedabad, Gujarat 380054"
+    },
+    "pricePerKwh": 19.00,
+    "status": "Unavailable",
+    "connectors": [
+      { "type": "CCS", "powerKw": 50 }
+    ]
+  },
+  {
+    "name": "Tata Power - Elante Mall, Chandigarh",
+    "location": {
+      "type": "Point",
+      "coordinates": [76.7865, 30.7061],
+      "address": "Elante Mall, Industrial Area Phase I, Chandigarh, 160002"
+    },
+    "pricePerKwh": 21.00,
+    "status": "Available",
+    "connectors": [
+      { "type": "CCS", "powerKw": 50 }
+    ]
+  },
+  {
+    "name": "Ather Grid - Anna Nagar, Chennai",
+    "location": {
+      "type": "Point",
+      "coordinates": [80.2185, 13.0858],
+      "address": "Anna Nagar East, Chennai, Tamil Nadu 600102"
+    },
+    "pricePerKwh": 15.00,
+    "status": "Available",
+    "connectors": [
+      { "type": "Type 2", "powerKw": 22 }
+    ]
+  },
+  {
+    "name": "KSEB - Kakkanad, Kochi",
+    "location": {
+      "type": "Point",
+      "coordinates": [76.3315, 10.0159],
+      "address": "Infopark, Kakkanad, Kochi, Kerala 682042"
+    },
+    "pricePerKwh": 16.00,
+    "status": "Available",
+    "connectors": [
+      { "type": "CCS", "powerKw": 30 }
+    ]
+  },
+  {
+    "name": "ChargeMOD - Technopark, Trivandrum",
+    "location": {
+      "type": "Point",
+      "coordinates": [76.8797, 8.5546],
+      "address": "Technopark Campus, Thiruvananthapuram, Kerala 695581"
+    },
+    "pricePerKwh": 17.50,
+    "status": "Charging",
+    "connectors": [
+      { "type": "Type 2", "powerKw": 22 }
+    ]
+  },
+  {
+    "name": "Relux - PVP Mall, Vijayawada",
+    "location": {
+      "type": "Point",
+      "coordinates": [80.6409, 16.5100],
+      "address": "PVP Square, Vijayawada, Andhra Pradesh 520010"
+    },
+    "pricePerKwh": 19.00,
+    "status": "Available",
+    "connectors": [
+      { "type": "CCS", "powerKw": 60 }
+    ]
+  },
+  {
+    "name": "Bolt Earth - Tirupati",
+    "location": {
+      "type": "Point",
+      "coordinates": [79.4192, 13.6288],
+      "address": "Tirumala Bypass Rd, Tirupati, Andhra Pradesh 517501"
+    },
+    "pricePerKwh": 17.00,
+    "status": "Available",
+    "connectors": [
+      { "type": "Type 2", "powerKw": 15 }
+    ]
+  },
+  {
+    "name": "Zeon - Sarath City Mall, Hyderabad",
+    "location": {
+      "type": "Point",
+      "coordinates": [78.3840, 17.4475],
+      "address": "Sarath City Capital Mall, Kondapur, Hyderabad, Telangana 500084"
+    },
+    "pricePerKwh": 19.50,
+    "status": "Available",
+    "connectors": [
+      { "type": "CCS", "powerKw": 50 }
+    ]
+  },
+  {
+    "name": "Ather Grid - Jubilee Hills, Hyderabad",
+    "location": {
+      "type": "Point",
+      "coordinates": [78.4116, 17.4331],
+      "address": "Jubilee Hills, Hyderabad, Telangana 500033"
+    },
+    "pricePerKwh": 15.00,
+    "status": "Available",
+    "connectors": [
+      { "type": "Type 2", "powerKw": 22 }
+    ]
+  },
+  {
+    "name": "Tata Power - Trichy",
+    "location": {
+      "type": "Point",
+      "coordinates": [78.6821, 10.7905],
+      "address": "Tiruchirappalli, Tamil Nadu 620001"
+    },
+    "pricePerKwh": 20.00,
+    "status": "Available",
+    "connectors": [
+      { "type": "CCS", "powerKw": 30 }
+    ]
+  },
+  {
+    "name": "Relux - OMR Food Street, Chennai",
+    "location": {
+      "type": "Point",
+      "coordinates": [80.2491, 12.9110],
+      "address": "OMR Food Street, Navalur, Chennai, Tamil Nadu 600130"
+    },
+    "pricePerKwh": 19.00,
+    "status": "Available",
+    "connectors": [
+      { "type": "CCS", "powerKw": 60 }
+    ]
+  },
+  {
+    "name": "KSEB - Alappuzha",
+    "location": {
+      "type": "Point",
+      "coordinates": [76.3314, 9.4981],
+      "address": "Alappuzha, Kerala 688001"
+    },
+    "pricePerKwh": 16.00,
+    "status": "Charging",
+    "connectors": [
+      { "type": "CCS", "powerKw": 30 }
+    ]
+  },
+  {
+    "name":"Tata Power - Guntur",
+    "location": {
+      "type": "Point",
+      "coordinates": [80.4365, 16.3067],
+      "address": "Guntur, Andhra Pradesh 522002"
+    },
+    "pricePerKwh": 20.00,
+    "status": "Available",
+    "connectors": [
+      { "type": "CCS", "powerKw": 30 }
+    ]
+  }
+]

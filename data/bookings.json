@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "userId": "U001",
+    "station": "Tata Power - Trichy",
+    "dateTime": "2025-11-05T04:20",
+    "status": "Confirmed"
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "stationName": "GOEC - Inorbit Mall, Hyderabad",
+    "dateTime": "2025-11-05T02:40",
+    "status": "Confirmed"
+  },
+  {
+    "id": 3,
+    "userId": 1,
+    "stationName": "Ather Grid - Anna Nagar, Chennai",
+    "dateTime": "2025-11-05T04:45",
+    "status": "Confirmed"
+  },
+  {
+    "id": 4,
+    "userId": 1,
+    "stationName": "Bolt Earth - Tirupati",
+    "dateTime": "2025-11-05T05:20",
+    "status": "Confirmed"
+  }
+]
